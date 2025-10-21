@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hola — Soy Jesús (aka **jerodrig**)
 
-<!--
-**jerodrigsec/jerodrigsec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Analista/Pentester en **Minsait Cyber** 
+Me centro en detección e investigación de incidentes, automatización y pentesting: write-ups, labs y herramientas propias.
 
-Here are some ideas to get you started:
+## 🧭 ¿Qué encontrarás en este GitHub?
+- 📝 **Write-ups** y notas de laboratorios (HTB / TryHackMe / labs propios) — enfoque en metodología y TTPs.
+- 🛠️ **Scripts y utilidades** que uso para automatizar tareas o en mi día a día.  
+- 📚 **Notas de aprendizaje** y mini-guías técnicas (detección, triage, hunting).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Habilidades clave
+- SOC / Detección & Triage
+- Python (automatización)
+- Pentesting básico / Red Team (eJPT, CEH)
+- Herramientas: tcpdump, Wireshark, Elastic / Kibana basics, SIEM queries, Nmap...
+- Interés: DFIR, Threat Hunting, automatización
+
+## 📌 Repos destacados
+- `Writeups-Labs` — write-ups documentados y metodológicos.  
+- `SOC-Scripts` — scripts para extracción/normalización y alert enrichment.  
+- `Mini-Tools` — utilidades pequeñas (POC / helpers).
+
+## 🔗 Conecta
+- LinkedIn: https://www.linkedin.com/in/jerodrig/
