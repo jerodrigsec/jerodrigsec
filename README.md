@@ -1,6 +1,6 @@
-# 👋 Hola — Soy Jesús (aka **jerodrig**)
+# 👋 Hola — Soy Jesús
 
-🔐 Analista/Pentester en **Minsait Cyber** 
+🔐 Analista en **Indramind Cybersecurity** 
 Me centro en detección e investigación de incidentes, automatización y pentesting: write-ups, labs y herramientas propias.
 
 ## 🧭 ¿Qué encontrarás en este GitHub?
